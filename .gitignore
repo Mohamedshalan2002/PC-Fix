@@ -1,0 +1,3 @@
+# Diagnostic logs contain private machine data - never publish
+PC-Fix-Log-*/
+*.log
